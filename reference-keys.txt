@@ -4,14 +4,6 @@ abs_data
 abs_census_2021
 awap_grids
 awap_grids_1930_1959
-ausenhealthdata
-climate_average_solar_uv_index
-climate_daily_max_uv_index
-climate_au_gridded_daily_max_temperature
-climate_au_daily_rainfall_maps
-climate_au_daily_solar_exposure
-climate_extreme_rainfall
-climate_au_extreme_temp
 aust_gridded_climate_data
 aust_gridded_climate_data-1
 cohorts
@@ -31,6 +23,8 @@ liveability_indicators
 liveability_indicators-1
 medicineinsight_database
 medicineinsight_data
+nhippc_project
+nhippc_project-1
 nmmaps_ucla_training
 multi_cities_age_specific_mortality
 multi_cities_standard_data
