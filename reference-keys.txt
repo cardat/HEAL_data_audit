@@ -3,7 +3,7 @@ datasets-overview
 abs_data
 abs_census_2021
 awap_agcd_grids
-australian-gridded-climate-data-v1.0.1-australian-water-availability-project
+awap_agcd_temp_v1.0.1
 awap_grids
 awap_grids_1930_1959
 codurf_project
@@ -34,6 +34,8 @@ qld_rapid_release_mortality_morbidity
 qld_rapid_release_mortality_morbidity-1
 sfap_bushfire_smoke
 substantial_bushfire_related_air_pollution
+telethon_global_malaria_and_environment
+global_malaria_and_environment
 various_climate_data_from_murdochuni
 awap_climate_data_provied
 bushfire_smoke_data_from_dwer_air_quality_stations
