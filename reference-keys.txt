@@ -2,10 +2,10 @@ introduction
 datasets-overview
 abs_data
 abs_census_2021
+awap_agcd_grids
+australian-gridded-climate-data-v1.0.1-australian-water-availability-project
 awap_grids
 awap_grids_1930_1959
-aust_gridded_climate_data
-aust_gridded_climate_data-1
 codurf_project
 codurf_project-1
 cohorts
